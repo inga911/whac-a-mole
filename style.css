@@ -13,3 +13,7 @@ body {
 .cell {
   border: 1px solid lightgrey;
 }
+
+.color {
+  background-color: rgb(177, 251, 221);
+}
